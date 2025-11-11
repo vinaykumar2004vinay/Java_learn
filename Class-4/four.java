@@ -12,6 +12,6 @@ class four
         obj2.eids[0] = 1001;
         obj2.eids[2] = 1003;
 
-        System.out.println()
+        System.out.println();
     }
 }
